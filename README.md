@@ -39,3 +39,5 @@ git remote add origin <url>
 You can now fetch and push as you normally would using `git fetch origin` and
 `git push origin`. If we push out updated code, you can fetch this new code
 using `git fetch example`.
+
+Modified by me ID, hopefully the other's can't see this.
